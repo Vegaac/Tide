@@ -1,6 +1,0 @@
-driver=com.mysql.jdbc.Driver
-url=jdbc:mysql://10.9.29.221:3306/shandonghospital?useSSL=false&useUnicode=true&characterEncoding=UTF-8
-user=root
-password=123456
-
-	
